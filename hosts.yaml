@@ -1,0 +1,93 @@
+---
+
+S1:
+    hostname: 192.168.31.101
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: core
+
+
+
+S2:
+    hostname: 192.168.31.102
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: core
+
+
+
+S3:
+    hostname: 192.168.31.103
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
+
+
+
+S4:
+    hostname: 192.168.31.104
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
+
+
+
+S5:
+    hostname: 192.168.31.105
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
+
+
+
+S6:
+    hostname: 192.168.31.106
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
+
+
+S7:
+    hostname: 192.168.31.107
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
+
+
+S8:
+    hostname: 192.168.31.108
+    platform: 'cisco_xe'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        layer: access
